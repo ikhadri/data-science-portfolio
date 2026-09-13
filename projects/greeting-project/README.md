@@ -2,7 +2,7 @@
 ## About This Project
 This is my first project stored in my Data Science GitHub portfolio.
 ## What It Does
-This Python program asks the user for their name and displays a personalized greeting.
+This Python program asks the user for their name and displays a personalized greeting. This Project can also calculate the User's date of birth after asking them for their age as well as asks the user to name a fruit and displays the fruit the user named.
 ## Tools Used
 - Python
 - GitHub

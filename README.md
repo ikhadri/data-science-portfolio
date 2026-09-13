@@ -9,7 +9,7 @@ I am a student at CSUEB
 ## My Projects
 ### Interactive Greeting Project
 My first Python project created in GitHub.
-[View Project](greeting-project)
+[View Project](https://github.com/ikhadri/data-science-portfolio/blob/main/projects/greeting-project/hello.py)
 
 
 This portfolio is a WIP and it will change as I do more projects
